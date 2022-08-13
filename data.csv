@@ -1,230 +1,232 @@
-Large kitchen appliances,3
-Mining,39
-Leisure,51
-Coffee makers or coffee machines,53
-Yoga,54
-Dancing,62
-Televisions and plasma televisions,71
-Collectables,85
-Motorsports,87
-File converters,89
-Sailing,98
-Chemical reactions or chemistry or physical experiments,109
-Handicraft,110
-Roofs and gutters,112
-Fishing,119
-Music lyrics,121
-Event space rentals,125
-Franchising ,130
-Eye optics,142
-Library,150
-Skiing,174
-Skateboarding,195
-Hockey,204
-Martial arts,205
-Lighting and lamps and chandeliers and sconces,207
-File transfer,215
-Business,222
-Clubs,227
-Roller skating,257
-Questions and answers,259
-Weightlifting and bodybuilding and crossfit,273
-Mattresses,308
-Car seats,313
-Stomatology,325
-Smoking,329
-Tennis,348
-Motorcycles and motorbikes,358
-Planning and management digital products,370
-Construction tools,375
-Textiles and curtains and towels and blankets,383
-Business automation,385
-Office supplies,406
-Guides,426
-Fan fictions,440
-Internet browsers,468
-URL shorteners,475
-Basketball,488
-Office furniture and workplace,521
-Motorcycles,531
-Torrents,552
-Laundry detergents and wash products,598
-Game consoles,624
-Dating services,625
-Hair care products and shampoo,626
-Tattoo,633
-Pet supplies,669
-Motor oil,689
-Space and astronomy,701
-Cold and flu medicines,787
-Tea or coffee,820
-E-commerce,826
-Tires and wheels,837
-Vacuum cleaners,853
-Shopping mall,884
-Agricultural equipment and machinery,949
-Audio-visual equipment,962
-Decorative cosmetics for nails,1005
-Work abroad and relocation and visa,1021
-Desktop computers,1031
-Rock climbing and mountaineering,1062
-Kitchen appliances,1140
-Scooters or bicycles,1317
-Laptops,1336
-Weddings,1364
-Tests and quizzes,1368
-Comics and cartoons,1408
-Congratulations cards,1423
-Machine learning data science,1459
-Weapons or guns or rifles,1467
-Psychology,1476
-Plumbing,1492
-HVAC equipment for home use,1597
-Musical instruments,1600
-History,1616
-Military,1650
-Baby clothes,1690
-Diagnostic equipment,1741
-Industrial equipment and machinery,1773
-Teaching curriculum pedagogy classes,1802
-Hair styling and coloring products,1809
-Streaming platform,1822
-Security,1825
-Appliances,1948
-Bathroom furniture and toilet,1964
-Swimming,1984
-Museums,2114
-Pet food and supplies and pet nutrition,2115
-Flowers,2163
-Body care,2202
-Concerts,2362
-Fashion,2427
-Plants and seeds,2520
-Gifts and presents,2555
-Photo and video editors,2613
-Retail,2716
-Embassies,2821
-Hiking and sports tourism,2868
-Religion,3055
-Baby toys,3062
-Family life and parenting,3080
-Puzzles,3114
-Cycling,3158
-Pharmacists,3240
-Wallpaper,3482
-Alcohol,3585
-Fitness,3925
-Accounting services,3958
-Chess,3972
-Announcements,3985
-Encyclopedia,4046
-Theaters,4190
-Lifehacks,4240
-Pregnancy and baby care,4293
-Car insurance and auto liability coverage,4535
-Reviews and ratings,4553
-Watches,4582
-Perfume,4616
-Sports wear,4829
-Furniture for bedroom and kitchen and living room,4840
-Animals,4897
-Jewelry,5264
-Sporting goods,5665
-Natural resources,5777
-Decorative cosmetics,6128
-Humor,6171
-Cinemas and movie tickets and showtimes,6182
-Web hosting service and networks,6268
-Public transportation,6508
-Computer equipment and hardware,6699
-HR services and recruitment and employment,6918
-Restaurants,7021
-Driver training,7140
-Shoes and footwear and boots,7187
-Science,7267
-Facial care,7334
-House renovation and building repair and construction,7618
-Investments and cryptocurrency and funds and stocks,7678
-Car parts and maintenance and auto body and accessories,7945
-Sports nutrition,8247
-Astrology and horoscope,8390
-Anime and manga,8576
-Photo and video equipment and cameras and lenses,8895
-Goods for children,9556
-Health and beauty supplies,9979
-Finance and accounting,10036
-Freelance jobs and upwork,10182
-Maps and navigation,11029
-Personal loans and borrow and lend money,11537
-Insurance,12313
-Clothing accessories,13610
-Non-profit activity and charity,14178
-Coupons and discounts,14195
-Translators and dictionaries,15071
-Health and beauty,15270
-Football,15403
-Universities,16478
-Carrier and shipping services,16871
-Laws and legal rights and court,17357
-Mobile phones and smartphones,18016
-Home appliances,18037
-"Satellite, cable, online TV",18190
-Taxi transfers and livery services,18709
-Cooking and recipes,19507
-Magazines,20009
-Medical products,20338
-Medicine and doctors,21163
-Photo and video download,21315
-Motor vehicles,21720
-Online courses and education and lessons,21896
-"Books, audio books, literature",22673
-Health and illness,22684
-Arts,23574
-Design and artwork,24160
-Digital currency,25242
-Buy real estate and mortgage and rent residential property,25800
-"Airlines, air transport, airports and airline tickets",26407
-Clothing,27180
-Criminal activity,30676
-Food and drinks and cuisine,32025
-Analytics and statistics,33433
-Casino or card games or gambling,34124
-Yellow pages,34922
-Politics,35185
-Hotels,35753
-Online wallets and paying services,36186
-Sports,36342
-Programming languages and software developments,37070
-Booking and vacation home rentals,39789
-Traveling and tourism and sights,40776
-Cars and auto and SUV and VAN and crossover and drive,41020
-TV shows,41871
-Mailing services,44000
-Weather forecasts,45423
-"Cybersecurity, vpn",47226
-State and government,48041
-Telecom,49068
-Online tools and services,51106
-Business consulting,51839
-Website builders,54100
-Photo and video sharing,55755
-Forex and currency exchange,56065
-Job search and find vacancies and career,60206
-Blogging,62367
-Films and movies,68664
-Education,79399
-CRM or customer relationship,85394
-Digital products and software and apps,87445
-Video games,91677
-Sport bets and sport predictions and odds,99645
-Technology and hi-tech and electronics,109503
-Online shop,111272
-Search engines,115972
-Social networks and online communities,122805
-Marketing and advertising,123271
-Messengers,130308
-Banks and financial services and deposits and payments,138641
-"Music, radio, podcasts",145708
-Infotainment,147883
-News and media,180617
-Cloud file storage,255012
+id,value
+Categories
+Categories.Large kitchen appliances,3
+Categories.Mining,39
+Categories.Leisure,51
+Categories.Coffee makers or coffee machines,53
+Categories.Yoga,54
+Categories.Dancing,62
+Categories.Televisions and plasma televisions,71
+Categories.Collectables,85
+Categories.Motorsports,87
+Categories.File converters,89
+Categories.Sailing,98
+Categories.Chemical reactions or chemistry or physical experiments,109
+Categories.Handicraft,110
+Categories.Roofs and gutters,112
+Categories.Fishing,119
+Categories.Music lyrics,121
+Categories.Event space rentals,125
+Categories.Franchising ,130
+Categories.Eye optics,142
+Categories.Library,150
+Categories.Skiing,174
+Categories.Skateboarding,195
+Categories.Hockey,204
+Categories.Martial arts,205
+Categories.Lighting and lamps and chandeliers and sconces,207
+Categories.File transfer,215
+Categories.Business,222
+Categories.Clubs,227
+Categories.Roller skating,257
+Categories.Questions and answers,259
+Categories.Weightlifting and bodybuilding and crossfit,273
+Categories.Mattresses,308
+Categories.Car seats,313
+Categories.Stomatology,325
+Categories.Smoking,329
+Categories.Tennis,348
+Categories.Motorcycles and motorbikes,358
+Categories.Planning and management digital products,370
+Categories.Construction tools,375
+Categories.Textiles and curtains and towels and blankets,383
+Categories.Business automation,385
+Categories.Office supplies,406
+Categories.Guides,426
+Categories.Fan fictions,440
+Categories.Internet browsers,468
+Categories.URL shorteners,475
+Categories.Basketball,488
+Categories.Office furniture and workplace,521
+Categories.Motorcycles,531
+Categories.Torrents,552
+Categories.Laundry detergents and wash products,598
+Categories.Game consoles,624
+Categories.Dating services,625
+Categories.Hair care products and shampoo,626
+Categories.Tattoo,633
+Categories.Pet supplies,669
+Categories.Motor oil,689
+Categories.Space and astronomy,701
+Categories.Cold and flu medicines,787
+Categories.Tea or coffee,820
+Categories.E-commerce,826
+Categories.Tires and wheels,837
+Categories.Vacuum cleaners,853
+Categories.Shopping mall,884
+Categories.Agricultural equipment and machinery,949
+Categories.Audio-visual equipment,962
+Categories.Decorative cosmetics for nails,1005
+Categories.Work abroad and relocation and visa,1021
+Categories.Desktop computers,1031
+Categories.Rock climbing and mountaineering,1062
+Categories.Kitchen appliances,1140
+Categories.Scooters or bicycles,1317
+Categories.Laptops,1336
+Categories.Weddings,1364
+Categories.Tests and quizzes,1368
+Categories.Comics and cartoons,1408
+Categories.Congratulations cards,1423
+Categories.Machine learning data science,1459
+Categories.Weapons or guns or rifles,1467
+Categories.Psychology,1476
+Categories.Plumbing,1492
+Categories.HVAC equipment for home use,1597
+Categories.Musical instruments,1600
+Categories.History,1616
+Categories.Military,1650
+Categories.Baby clothes,1690
+Categories.Diagnostic equipment,1741
+Categories.Industrial equipment and machinery,1773
+Categories.Teaching curriculum pedagogy classes,1802
+Categories.Hair styling and coloring products,1809
+Categories.Streaming platform,1822
+Categories.Security,1825
+Categories.Appliances,1948
+Categories.Bathroom furniture and toilet,1964
+Categories.Swimming,1984
+Categories.Museums,2114
+Categories.Pet food and supplies and pet nutrition,2115
+Categories.Flowers,2163
+Categories.Body care,2202
+Categories.Concerts,2362
+Categories.Fashion,2427
+Categories.Plants and seeds,2520
+Categories.Gifts and presents,2555
+Categories.Photo and video editors,2613
+Categories.Retail,2716
+Categories.Embassies,2821
+Categories.Hiking and sports tourism,2868
+Categories.Religion,3055
+Categories.Baby toys,3062
+Categories.Family life and parenting,3080
+Categories.Puzzles,3114
+Categories.Cycling,3158
+Categories.Pharmacists,3240
+Categories.Wallpaper,3482
+Categories.Alcohol,3585
+Categories.Fitness,3925
+Categories.Accounting services,3958
+Categories.Chess,3972
+Categories.Announcements,3985
+Categories.Encyclopedia,4046
+Categories.Theaters,4190
+Categories.Lifehacks,4240
+Categories.Pregnancy and baby care,4293
+Categories.Car insurance and auto liability coverage,4535
+Categories.Reviews and ratings,4553
+Categories.Watches,4582
+Categories.Perfume,4616
+Categories.Sports wear,4829
+Categories.Furniture for bedroom and kitchen and living room,4840
+Categories.Animals,4897
+Categories.Jewelry,5264
+Categories.Sporting goods,5665
+Categories.Natural resources,5777
+Categories.Decorative cosmetics,6128
+Categories.Humor,6171
+Categories.Cinemas and movie tickets and showtimes,6182
+Categories.Web hosting service and networks,6268
+Categories.Public transportation,6508
+Categories.Computer equipment and hardware,6699
+Categories.HR services and recruitment and employment,6918
+Categories.Restaurants,7021
+Categories.Driver training,7140
+Categories.Shoes and footwear and boots,7187
+Categories.Science,7267
+Categories.Facial care,7334
+Categories.House renovation and building repair and construction,7618
+Categories.Investments and cryptocurrency and funds and stocks,7678
+Categories.Car parts and maintenance and auto body and accessories,7945
+Categories.Sports nutrition,8247
+Categories.Astrology and horoscope,8390
+Categories.Anime and manga,8576
+Categories.Photo and video equipment and cameras and lenses,8895
+Categories.Goods for children,9556
+Categories.Health and beauty supplies,9979
+Categories.Finance and accounting,10036
+Categories.Freelance jobs and upwork,10182
+Categories.Maps and navigation,11029
+Categories.Personal loans and borrow and lend money,11537
+Categories.Insurance,12313
+Categories.Clothing accessories,13610
+Categories.Non-profit activity and charity,14178
+Categories.Coupons and discounts,14195
+Categories.Translators and dictionaries,15071
+Categories.Health and beauty,15270
+Categories.Football,15403
+Categories.Universities,16478
+Categories.Carrier and shipping services,16871
+Categories.Laws and legal rights and court,17357
+Categories.Mobile phones and smartphones,18016
+Categories.Home appliances,18037
+Categories."Satellite, cable, online TV",18190
+Categories.Taxi transfers and livery services,18709
+Categories.Cooking and recipes,19507
+Categories.Magazines,20009
+Categories.Medical products,20338
+Categories.Medicine and doctors,21163
+Categories.Photo and video download,21315
+Categories.Motor vehicles,21720
+Categories.Online courses and education and lessons,21896
+Categories."Books, audio books, literature",22673
+Categories.Health and illness,22684
+Categories.Arts,23574
+Categories.Design and artwork,24160
+Categories.Digital currency,25242
+Categories.Buy real estate and mortgage and rent residential property,25800
+Categories."Airlines, air transport, airports and airline tickets",26407
+Categories.Clothing,27180
+Categories.Criminal activity,30676
+Categories.Food and drinks and cuisine,32025
+Categories.Analytics and statistics,33433
+Categories.Casino or card games or gambling,34124
+Categories.Yellow pages,34922
+Categories.Politics,35185
+Categories.Hotels,35753
+Categories.Online wallets and paying services,36186
+Categories.Sports,36342
+Categories.Programming languages and software developments,37070
+Categories.Booking and vacation home rentals,39789
+Categories.Traveling and tourism and sights,40776
+Categories.Cars and auto and SUV and VAN and crossover and drive,41020
+Categories.TV shows,41871
+Categories.Mailing services,44000
+Categories.Weather forecasts,45423
+Categories."Cybersecurity, vpn",47226
+Categories.State and government,48041
+Categories.Telecom,49068
+Categories.Online tools and services,51106
+Categories.Business consulting,51839
+Categories.Website builders,54100
+Categories.Photo and video sharing,55755
+Categories.Forex and currency exchange,56065
+Categories.Job search and find vacancies and career,60206
+Categories.Blogging,62367
+Categories.Films and movies,68664
+Categories.Education,79399
+Categories.CRM or customer relationship,85394
+Categories.Digital products and software and apps,87445
+Categories.Video games,91677
+Categories.Sport bets and sport predictions and odds,99645
+Categories.Technology and hi-tech and electronics,109503
+Categories.Online shop,111272
+Categories.Search engines,115972
+Categories.Social networks and online communities,122805
+Categories.Marketing and advertising,123271
+Categories.Messengers,130308
+Categories.Banks and financial services and deposits and payments,138641
+Categories."Music, radio, podcasts",145708
+Categories.Infotainment,147883
+Categories.News and media,180617
+Categories.Cloud file storage,255012
