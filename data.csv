@@ -1,22 +1,32 @@
 id,value
 Categories
+Categories.Business and production services.Business consulting
 Categories.Business and production services.Business consulting.Business consulting,51839
 Categories.Business and production services.Business consulting.Business,222
+Categories.Business and production services.CRM
 Categories.Business and production services.CRM.CRM or customer relationship,85394
+Categories.Business and production services.E-commerce
 Categories.Business and production services.E-commerce.E-commerce,826
+Categories.Business and production services.Franchising
 Categories.Business and production services.Franchising.Franchising,130
+Categories.Business and production services.HR
 Categories.Business and production services.HR.Job search and find vacancies and career,60206
 Categories.Business and production services.HR.Work abroad and relocation and visa,1021
 Categories.Business and production services.HR.Freelance jobs and upwork,10182
 Categories.Business and production services.HR.HR services and recruitment and employment,6918
+Categories.Business and production services.Legal consulting
 Categories.Business and production services.Legal consulting.Laws and legal rights and court,17357
+Categories.Business and production services.Marketing and advertising
 Categories.Business and production services.Marketing and advertising.Marketing and advertising,123271
 Categories.Business and production services.Marketing and advertising.Coupons and discounts,14195
 Categories.Business and production services.Marketing and advertising.Shopping mall,884
 Categories.Business and production services.Marketing and advertising.Announcements,3985
+Categories.Business and production services.Planning and management services
 Categories.Business and production services.Planning and management services.Planning and management digital products,370
+Categories.Business and production services.Security
 Categories.Business and production services.Security.Security,1825
 Categories.Business and production services.Business automation,385
+Categories.Communication services
 Categories.Communication services.Social networks and online communities,122805
 Categories.Communication services.News and media,180617
 Categories.Communication services.Blogging,62367
@@ -31,211 +41,3 @@ Categories.Community and social services.Military,1650
 Categories.Community and social services.Religion,3055
 Categories.Community and social services.Embassies,2821
 Categories.Community and social services.Non-profit activity and charity,14178
-Categories.Creative and artistic services.Design and artwork,24160
-Categories.Creative and artistic services.Arts,23574
-Categories.Creative and artistic services.Photo and video sharing,55755
-Categories.Creative and artistic services.Photo and video editors,2613
-Categories.Creative and artistic services.Fashion,2427
-Categories.Durable goods.Appliances.Appliances,1948
-Categories.Durable goods.Appliances.Coffee makers or coffee machines,53
-Categories.Durable goods.Appliances.Home appliances,18037
-Categories.Durable goods.Appliances.Large kitchen appliances,3
-Categories.Durable goods.Appliances.Vacuum cleaners,853
-Categories.Durable goods.Appliances.Kitchen appliances,1140
-Categories.Durable goods.Clothing and accessories.Clothing accessories,13610
-Categories.Durable goods.Clothing and accessories.Shoes and footwear and boots,7187
-Categories.Durable goods.Clothing and accessories.Watches,4582
-Categories.Durable goods.Construction equipment and materials.HVAC equipment for home use,1597
-Categories.Durable goods.Construction equipment and materials.Roofs and gutters,112
-Categories.Durable goods.Construction equipment and materials.Plumbing,1492
-Categories.Durable goods.Construction equipment and materials.Construction tools,375
-Categories.Durable goods.Electronics.Audio-visual equipment,962
-Categories.Durable goods.Electronics.Photo and video equipment and cameras and lenses,8895
-Categories.Durable goods.Electronics.Computer equipment and hardware,6699
-Categories.Durable goods.Electronics.Desktop computers,1031
-Categories.Durable goods.Electronics.Game consoles,624
-Categories.Durable goods.Electronics.Laptops,1336
-Categories.Durable goods.Electronics.Televisions and plasma televisions,71
-Categories.Durable goods.Electronics.Mobile phones and smartphones,18016
-Categories.Durable goods.Electronics.Technology and hi-tech and electronics,109503
-Categories.Durable goods.Electronics.Online shop,111272
-Categories.Durable goods.Furniture and furnishing.Bathroom furniture and toilet,1964
-Categories.Durable goods.Furniture and furnishing.Mattresses,308
-Categories.Durable goods.Furniture and furnishing.Office furniture and workplace,521
-Categories.Durable goods.Furniture and furnishing.Furniture for bedroom and kitchen and living room,4840
-Categories.Durable goods.Furniture and furnishing.Lighting and lamps and chandeliers and sconces,207
-Categories.Durable goods.Industrial machinery.Agricultural equipment and machinery,949
-Categories.Durable goods.Industrial machinery.Industrial equipment and machinery,1773
-Categories.Durable goods.Jewelry.Jewelry,5264
-Categories.Durable goods.Leisure goods."Books, audio books, literature",22673
-Categories.Durable goods.Leisure goods.Video games,91677
-Categories.Durable goods.Leisure goods.Musical instruments,1600
-Categories.Durable goods.Leisure goods.Baby toys,3062
-Categories.Durable goods.Leisure goods.Goods for children,9556
-Categories.Durable goods.Medical goods and equipment.Diagnostic equipment,1741
-Categories.Durable goods.Medical goods and equipment.Eye optics,142
-Categories.Durable goods.Sporting goods.Sporting goods,5665
-Categories.Durable goods.Sporting goods.Sports wear,4829
-Categories.Durable goods."Vehicles, parts, and accessories".Car seats,313
-Categories.Durable goods."Vehicles, parts, and accessories".Car parts and maintenance and auto body and accessories,7945
-Categories.Durable goods."Vehicles, parts, and accessories".Motor vehicles,21720
-Categories.Durable goods."Vehicles, parts, and accessories".Motorcycles,531
-Categories.Durable goods."Vehicles, parts, and accessories".Scooters or bicycles,1317
-Categories.Durable goods."Vehicles, parts, and accessories".Cars and auto and SUV and VAN and crossover and drive,41020
-Categories.Durable goods."Vehicles, parts, and accessories".Motorcycles and motorbikes,358
-Categories.Durable goods.Weapons.Weapons or guns or rifles,1467
-Categories.Financial services.Accounting services,3958
-Categories.Financial services.Forex and currency exchange,56065
-Categories.Financial services.Investments and cryptocurrency and funds and stocks,7678
-Categories.Financial services.Insurance,12313
-Categories.Financial services.Car insurance and auto liability coverage,4535
-Categories.Financial services.Personal loans and borrow and lend money,11537
-Categories.Financial services.Banks and financial services and deposits and payments,138641
-Categories.Financial services.Finance and accounting,10036
-Categories.Financial services.Digital currency,25242
-Categories.Financial services.Online wallets and paying services,36186
-Categories.Financial services.Mining,39
-Categories."Health, care and beauty services".Babysitters,
-Categories."Health, care and beauty services".Health and beauty,15270
-Categories."Health, care and beauty services".Body care,2202
-Categories."Health, care and beauty services".Facial care,7334
-Categories."Health, care and beauty services".Medicine and doctors,21163
-Categories."Health, care and beauty services".Health and illness,22684
-Categories."Health, care and beauty services".Psychology,1476
-Categories."Health, care and beauty services".Pregnancy and baby care,4293
-Categories."Health, care and beauty services".Stomatology,325
-Categories."Health, care and beauty services".Tattoo,633
-Categories.IT services.Cybersecurity and vpn."Cybersecurity, vpn",47226
-Categories.IT services.Data management.Cloud file storage,255012
-Categories.IT services.Data management.Torrents,552
-Categories.IT services.Data management.File transfer,215
-Categories.IT services.Data management.File converters,89
-Categories.IT services.Data management.Photo and video download,21315
-Categories.IT services.Search engines.Search engines,115972
-Categories.IT services.Software.Digital products and software and apps,87445
-Categories.IT services.Software.Online tools and services,51106
-Categories.IT services.Software.Mailing services,44000
-Categories.IT services.Software.Internet browsers,468
-Categories.IT services.Web.Web hosting service and networks,6268
-Categories.IT services.Web.URL shorteners,475
-Categories.IT services.Web.Website builders,54100
-Categories.Knowledge services.Educational services.Online courses and education and lessons,21896
-Categories.Knowledge services.Educational services.Driver training,7140
-Categories.Knowledge services.Educational services.Education,79399
-Categories.Knowledge services.Educational services.Universities,16478
-Categories.Knowledge services.Educational services.Museums,2114
-Categories.Knowledge services.Educational services.Teaching curriculum pedagogy classes,1802
-Categories.Knowledge services.Informational services.Animals,4897
-Categories.Knowledge services.Informational services.Plants and seeds,2520
-Categories.Knowledge services.Informational services.Programming languages and software developments,37070
-Categories.Knowledge services.Informational services.Machine learning data science,1459
-Categories.Knowledge services.Informational services.Chemical reactions or chemistry or physical experiments,109
-Categories.Knowledge services.Informational services.Translators and dictionaries,15071
-Categories.Knowledge services.Informational services.Yellow pages,34922
-Categories.Knowledge services.Informational services.Reviews and ratings,4553
-Categories.Knowledge services.Informational services.Encyclopedia,4046
-Categories.Knowledge services.Informational services.Family life and parenting,3080
-Categories.Knowledge services.Informational services.Guides,426
-Categories.Knowledge services.Informational services.Questions and answers,259
-Categories.Knowledge services.Informational services.Library,150
-Categories.Knowledge services.Science and research services.Science,7267
-Categories.Knowledge services.Science and research services.History,1616
-Categories.Knowledge services.Science and research services.Space and astronomy,701
-Categories.Knowledge services.Science and research services.Analytics and statistics,33433
-Categories.Non-durable goods.Baby and children products.Diapers and diaper pails,
-Categories.Non-durable goods.Beauty products.Decorative cosmetics,6128
-Categories.Non-durable goods.Beauty products.Decorative cosmetics for nails,1005
-Categories.Non-durable goods.Beauty products.Perfume,4616
-Categories.Non-durable goods.Beauty products.Hair care products and shampoo,626
-Categories.Non-durable goods.Beauty products.Hair styling and coloring products,1809
-Categories.Non-durable goods.Clothing and accessories.Baby clothes,1690
-Categories.Non-durable goods.Clothing and accessories.Clothing,27180
-Categories.Non-durable goods.Commodities.Textiles and curtains and towels and blankets,383
-Categories.Non-durable goods.Commodities.Natural resources,5777
-Categories.Non-durable goods.Food.Tea or coffee,820
-Categories.Non-durable goods.Food.Food and drinks and cuisine,32025
-Categories.Non-durable goods.Food supplements.Sports nutrition,8247
-Categories.Non-durable goods.Gifts.Gifts and presents,2555
-Categories.Non-durable goods.Gifts.Flowers,2163
-Categories.Non-durable goods.Gifts.Congratulations cards,1423
-Categories.Non-durable goods.Household chemicals.Laundry detergents and wash products,598
-Categories.Non-durable goods.Medical goods.Pharmacists,3240
-Categories.Non-durable goods.Medical goods.Allergy medicines,
-Categories.Non-durable goods.Medical goods.Health and beauty supplies,9979
-Categories.Non-durable goods.Medical goods.Cold and flu medicines,787
-Categories.Non-durable goods.Medical goods.Medical products,20338
-Categories.Non-durable goods.Office supplies.Office supplies,406
-Categories.Non-durable goods.Paper products.Magazines,20009
-Categories.Non-durable goods.Pet goods.Pet supplies,669
-Categories.Non-durable goods.Pet goods.Pet food and supplies and pet nutrition,2115
-Categories.Non-durable goods.Smoking and alcohol.Smoking,329
-Categories.Non-durable goods.Smoking and alcohol.Alcohol,3585
-Categories.Non-durable goods.Vehicle consumables.Motor oil,689
-Categories.Non-durable goods.Vehicle consumables.Tires and wheels,837
-Categories.Real estate and hospitality services.Commercial rentals,
-Categories.Real estate and hospitality services.Event space rentals,125
-Categories.Real estate and hospitality services.House renovation and building repair and construction,7618
-Categories.Real estate and hospitality services.Booking and vacation home rentals,39789
-Categories.Real estate and hospitality services.Hotels,35753
-Categories.Real estate and hospitality services.Buy real estate and mortgage and rent residential property,25800
-Categories.Recreational services.Arts and crafting activities.Handicraft,110
-Categories.Recreational services.Camping and outdoor activities.Rock climbing and mountaineering,1062
-Categories.Recreational services.Camping and outdoor activities.Scuba diving and underwater,
-Categories.Recreational services.Camping and outdoor activities.Fishing,119
-Categories.Recreational services.Camping and outdoor activities.Traveling and tourism and sights,40776
-Categories.Recreational services.Cultural activities.Theaters,4190
-Categories.Recreational services.Cultural activities.Collectables,85
-Categories.Recreational services.Gambling and betting.Sport bets and sport predictions and odds,99645
-Categories.Recreational services.Gambling and betting.Casino or card games or gambling,34124
-Categories.Recreational services.Infotainment services.Cooking and recipes,19507
-Categories.Recreational services.Infotainment services.Lifehacks,4240
-Categories.Recreational services.Infotainment services.Astrology and horoscope,8390
-Categories.Recreational services.Infotainment services.Infotainment,147883
-Categories.Recreational services.Media services.Comics and cartoons,1408
-Categories.Recreational services.Media services.TV shows,41871
-Categories.Recreational services.Media services."Music, radio, podcasts",145708
-Categories.Recreational services.Media services.Wallpaper,3482
-Categories.Recreational services.Media services.Cinemas and movie tickets and showtimes,6182
-Categories.Recreational services.Media services.Anime and manga,8576
-Categories.Recreational services.Media services.Puzzles,3114
-Categories.Recreational services.Media services.Films and movies,68664
-Categories.Recreational services.Media services.Humor,6171
-Categories.Recreational services.Media services.Fan fictions,440
-Categories.Recreational services.Media services.Tests and quizzes,1368
-Categories.Recreational services.Media services.Streaming platform,1822
-Categories.Recreational services.Media services.Leisure,51
-Categories.Recreational services.Musical services.Concerts,2362
-Categories.Recreational services.Musical services.Music lyrics,121
-Categories.Recreational services.Physical services.Yoga,54
-Categories.Recreational services.Physical services.Dancing,62
-Categories.Recreational services.Social activities.Restaurants,7021
-Categories.Recreational services.Social activities.Dating services,625
-Categories.Recreational services.Social activities.Clubs,227
-Categories.Recreational services."Satellite, cable, online TV",18190
-Categories.Sporting services.Animal sports.Horseback riding,
-Categories.Sporting services.Ball sports.Basketball,488
-Categories.Sporting services.Ball sports.Football,15403
-Categories.Sporting services.Ball sports.Tennis,348
-Categories.Sporting services.Ball sports.Volleyball,
-Categories.Sporting services.Cybersports.Cybersport,
-Categories.Sporting services.Fighting sports.Martial arts,205
-Categories.Sporting services.Motor sports.Motorsports,87
-Categories.Sporting services.Outdoor sports.Hiking and sports tourism,2868
-Categories.Sporting services.Street sports.Roller skating,257
-Categories.Sporting services.Street sports.Skateboarding,195
-Categories.Sporting services.Table sports.Table tennis,
-Categories.Sporting services.Table sports.Chess,3972
-Categories.Sporting services.Water sports.Swimming,1984
-Categories.Sporting services.Water sports.Sailing,98
-Categories.Sporting services.Weightlifting sports.Fitness,3925
-Categories.Sporting services.Weightlifting sports.Weightlifting and bodybuilding and crossfit,273
-Categories.Sporting services.Winter sports.Skiing,174
-Categories.Sporting services.Winter sports.Snowboarding,
-Categories.Sporting services.Cycling,3158
-Categories.Sporting services.Hockey,204
-Categories.Sporting services.Sports,36342
-Categories.Transport services.Carrier and shipping services,16871
-Categories.Transport services.Taxi transfers and livery services,18709
-Categories.Transport services."Airlines, air transport, airports and airline tickets",26407
-Categories.Transport services.Public transportation,6508
-Categories.Transport services.Maps and navigation,11029
